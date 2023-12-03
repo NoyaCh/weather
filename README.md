@@ -1,3 +1,3 @@
-This projects aims to provide the user weather data for any specified location they will choose Note- This projects is interfacing with the api of OpenWeatherMap.
+This project aims to provide the user with weather data for any specified location they choose. The project interfaces with the OpenWeatherMap API.
 
-In order to acess the file and data, plese acess the file "Weather_Forecast_Noya.ipynb" and open it in Google-Colab it in orderto execure your own session.
+To access the data, please open the file 'Weather_Forecast_Noya.ipynb' in Google Colab and execute your own session.
